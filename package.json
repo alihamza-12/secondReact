@@ -1,0 +1,17 @@
+{
+  "name": "secomd",
+  "version": "1.0.0",
+  "description": "React second eapisode",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Ali",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  }
+}
